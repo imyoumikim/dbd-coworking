@@ -1,5 +1,10 @@
 ## [2022 Fall] 데이타베이스설계 최종 프로젝트
-* 공유오피스를 위한 DB 설계
+####  대용량 DB 기반 응용을 지원하기 위한 RDB 스키마 설계 과제
+#### "공유오피스"를 위한 DB를 주제로 프로젝트 진행
+*  ERD 작성 / RDB 스키마 생성 / SQL 질의문 도출
+*  MySQL Workbench를 이용하여 DB 생성 및 데이터 적재
+*  JDBC/MySQL 프로그램
+*  BCNF 정규화 및 스키마 정제
 
 <img width="1431" alt="image" src="https://github.com/imyoumikim/dbd-coworking/assets/99166914/43179cee-5104-491c-9fbf-775b373140a9">
 <img width="1367" alt="image" src="https://github.com/imyoumikim/dbd-coworking/assets/99166914/74bb4d96-e78d-45f1-920a-5248e31ba4be">
